@@ -1,0 +1,5 @@
+jupyterlab
+ipython
+pycaret
+pandas-profiling
+mlflow

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/Course+material/Entrega/2.
+  Automating the ML Model Cycle/mlruns/1/e42ac2c4e9e246aa8899908804aa639a/artifacts
+end_time: 1687079558914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e42ac2c4e9e246aa8899908804aa639a
+run_name: Light Gradient Boosting Machine
+run_uuid: e42ac2c4e9e246aa8899908804aa639a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687079558763
+status: 3
+tags: []
+user_id: WMYFHCK
