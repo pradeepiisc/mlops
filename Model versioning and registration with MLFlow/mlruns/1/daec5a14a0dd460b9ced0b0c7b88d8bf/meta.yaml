@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/daec5a14a0dd460b9ced0b0c7b88d8bf/artifacts
+end_time: 1687231869097
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: daec5a14a0dd460b9ced0b0c7b88d8bf
+run_name: Dummy Regressor
+run_uuid: daec5a14a0dd460b9ced0b0c7b88d8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231868930
+status: 3
+tags: []
+user_id: WMYFHCK

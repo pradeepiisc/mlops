@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/ead3cc8c990b4d04a9e4db3758749603/artifacts
+end_time: 1687231871546
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ead3cc8c990b4d04a9e4db3758749603
+run_name: Ridge Regression
+run_uuid: ead3cc8c990b4d04a9e4db3758749603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231871363
+status: 3
+tags: []
+user_id: WMYFHCK

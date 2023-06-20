@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/7b72feb2695a450a8851573582d51c00/artifacts
+end_time: 1687231861581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b72feb2695a450a8851573582d51c00
+run_name: Extra Trees Regressor
+run_uuid: 7b72feb2695a450a8851573582d51c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231861396
+status: 3
+tags: []
+user_id: WMYFHCK

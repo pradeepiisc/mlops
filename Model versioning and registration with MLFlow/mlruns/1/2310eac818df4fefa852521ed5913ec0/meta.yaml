@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/2310eac818df4fefa852521ed5913ec0/artifacts
+end_time: 1687231860765
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2310eac818df4fefa852521ed5913ec0
+run_name: Random Forest Regressor
+run_uuid: 2310eac818df4fefa852521ed5913ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231860545
+status: 3
+tags: []
+user_id: WMYFHCK

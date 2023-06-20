@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/719f760eeca84bf48ff815deaa30ec5e/artifacts
+end_time: 1687231865587
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 719f760eeca84bf48ff815deaa30ec5e
+run_name: Orthogonal Matching Pursuit
+run_uuid: 719f760eeca84bf48ff815deaa30ec5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231865399
+status: 3
+tags: []
+user_id: WMYFHCK

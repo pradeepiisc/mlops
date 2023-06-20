@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/a0d4c0f96fe4489a87aa903286d434e8/artifacts
+end_time: 1687231863214
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0d4c0f96fe4489a87aa903286d434e8
+run_name: Decision Tree Regressor
+run_uuid: a0d4c0f96fe4489a87aa903286d434e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231863030
+status: 3
+tags: []
+user_id: WMYFHCK

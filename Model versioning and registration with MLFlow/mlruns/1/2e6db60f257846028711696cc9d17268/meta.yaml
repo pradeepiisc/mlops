@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/2e6db60f257846028711696cc9d17268/artifacts
+end_time: 1687231862430
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e6db60f257846028711696cc9d17268
+run_name: Gradient Boosting Regressor
+run_uuid: 2e6db60f257846028711696cc9d17268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231862224
+status: 3
+tags: []
+user_id: WMYFHCK

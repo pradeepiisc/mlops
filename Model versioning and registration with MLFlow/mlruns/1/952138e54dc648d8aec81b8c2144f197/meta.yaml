@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/952138e54dc648d8aec81b8c2144f197/artifacts
+end_time: 1687231863998
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 952138e54dc648d8aec81b8c2144f197
+run_name: AdaBoost Regressor
+run_uuid: 952138e54dc648d8aec81b8c2144f197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231863829
+status: 3
+tags: []
+user_id: WMYFHCK

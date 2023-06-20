@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/096e93c87c2d44d5b579e07e72bd9f9c/artifacts
+end_time: 1687232166549
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 096e93c87c2d44d5b579e07e72bd9f9c
+run_name: Session Initialized 6465
+run_uuid: 096e93c87c2d44d5b579e07e72bd9f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231646898
+status: 3
+tags: []
+user_id: WMYFHCK

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/14f22e72cb29422fbd16745813db5942/artifacts
+end_time: 1687231860407
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14f22e72cb29422fbd16745813db5942
+run_name: Light Gradient Boosting Machine
+run_uuid: 14f22e72cb29422fbd16745813db5942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231859220
+status: 3
+tags: []
+user_id: WMYFHCK

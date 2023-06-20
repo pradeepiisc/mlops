@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/19d146763abd45a3b0e267e8da9409a3/artifacts
+end_time: 1687231869916
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19d146763abd45a3b0e267e8da9409a3
+run_name: Huber Regressor
+run_uuid: 19d146763abd45a3b0e267e8da9409a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231869748
+status: 3
+tags: []
+user_id: WMYFHCK

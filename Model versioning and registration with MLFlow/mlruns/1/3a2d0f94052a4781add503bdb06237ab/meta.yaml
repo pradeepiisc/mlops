@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/3a2d0f94052a4781add503bdb06237ab/artifacts
+end_time: 1687231867228
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a2d0f94052a4781add503bdb06237ab
+run_name: Elastic Net
+run_uuid: 3a2d0f94052a4781add503bdb06237ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231866997
+status: 3
+tags: []
+user_id: WMYFHCK

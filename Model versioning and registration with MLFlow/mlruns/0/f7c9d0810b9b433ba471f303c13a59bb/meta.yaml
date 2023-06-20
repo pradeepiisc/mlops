@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/0/f7c9d0810b9b433ba471f303c13a59bb/artifacts
+end_time: 1687228335992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7c9d0810b9b433ba471f303c13a59bb
+run_name: fearless-roo-444
+run_uuid: f7c9d0810b9b433ba471f303c13a59bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687228332388
+status: 3
+tags: []
+user_id: WMYFHCK

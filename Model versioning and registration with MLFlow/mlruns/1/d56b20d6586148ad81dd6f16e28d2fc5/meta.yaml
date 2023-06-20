@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WMYFHCK/Documents/github_personal/mlops/Model versioning
+  and registration with MLFlow/mlruns/1/d56b20d6586148ad81dd6f16e28d2fc5/artifacts
+end_time: 1687231864770
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d56b20d6586148ad81dd6f16e28d2fc5
+run_name: K Neighbors Regressor
+run_uuid: d56b20d6586148ad81dd6f16e28d2fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687231864601
+status: 3
+tags: []
+user_id: WMYFHCK
